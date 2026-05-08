@@ -46,7 +46,8 @@ endobj
   /Resources 5 0 R
   /Contents  11 0 R
   /MediaBox  [0 0 792 612]
-  /Rotate    90
+  /CropBox [25 150 750 450]
+  /Rotate    0
 >>
 endobj
 11 0 obj
