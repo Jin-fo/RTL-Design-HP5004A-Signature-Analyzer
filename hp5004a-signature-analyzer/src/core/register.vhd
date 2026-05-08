@@ -38,7 +38,7 @@ begin
     begin
         if rising_edge(clk) then
             if rst_bar = '0' then
-                reg <= (others => '-');
+                reg <= (others => '0');
             elsif enable = '1' then
                 reg <= data_in;
             end if;
