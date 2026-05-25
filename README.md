@@ -1,6 +1,4 @@
-# FPGA System Design — Artix-7
-
-**Collection of RTL designs implemented on the Artix-7 FPGA (Basys3 development board).**
+# RTL-Design-HP5004A-Signature-Analyzer
 
 <div align="center">
 
