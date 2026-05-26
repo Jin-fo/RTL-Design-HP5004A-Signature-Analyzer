@@ -1,4 +1,5 @@
 # RTL-Design-HP5004A-Signature-Analyzer
+HP 5004A signature analyzer recreated on Basys3 FPGA with gated capture, 16-bit LFSR signatures, and live hex display.
 
 <div align="center">
 
@@ -22,6 +23,9 @@
 ## Overview
 
 An FPGA-based digital replica of the **HP 5004A Signature Analyzer** — a classic test instrument used in field-level digital circuit debugging. The design computes a 16-bit signature of a serial data stream captured between configurable **START** and **STOP** boundary conditions, then displays the result as a 4-digit hexadecimal value on the Basys3 on-board 7-segment display.
+
+
+The design emphasizes structural VHDL, deterministic timing behavior, and clear module boundaries so the full measurement path can be studied, simulated, and extended. It is intended both as a practical digital-debug instrument replica and as a learning reference for FSM design, signature analysis logic, and FPGA-based verification workflows.
 
 ---
 
