@@ -125,7 +125,7 @@ Displays the 16-bit signature as four hex digits on the Basys3 7-segment display
 
 <div align="center">
 <img src="sim/waveforms/prescaled_digs_wave.png" alt="Prescaled Display Waveform" width="1000"/>
-<br/><em>Figure 5: Prescaled display digit scan waveform</em>
+<br/><em>Figure 5: Prescaled delay waveform to display digit at 2.5ms interval</em>
 </div>
 
 ---
