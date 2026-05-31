@@ -166,7 +166,7 @@ Each cycle asserts START, shifts 16 bits of data synchronous to the DUT clock, t
 ## Place and Route
 
 <div align="center">
-<img src="docs/images/hp5004a_full.jng" alt="Prescaled Display Waveform" width="1000"/>
+<img src="docs/images/hp5004a_fpga.png" alt="hp5004a on Artix-7" width="1000"/>
 <br/><em>Figure 6: Placed and Routed on the Artix-7 with pre-determined signal generated input</em>
 </div>
 
