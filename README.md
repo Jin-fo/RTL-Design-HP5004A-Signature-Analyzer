@@ -62,12 +62,12 @@ Controls the LFSR acquisition window via a 3-state Moore FSM:
 | `GATE_L` | `0` | `1` | STOP edge received — latch result |
 
 <div align="center">
-<img src="sim/waveforms/fsm_IDLE_GATE_H.png" alt="FSM IDLE to GATE_H" width="600"/>
+<img src="sim/waveforms/fsm_IDLE_GATE_H.png" alt="FSM IDLE to GATE_H" width="1000"/>
 <br/><em>Figure 1: FSM transition waveform — IDLE → GATE_H on START edge</em>
 </div>
 
 <div align="center">
-<img src="sim/waveforms/fsm_GATE_H_L.png" alt="FSM GATE_H to GATE_L" width="600"/>
+<img src="sim/waveforms/fsm_GATE_H_L.png" alt="FSM GATE_H to GATE_L" width="1000"/>
 <br/><em>Figure 2: FSM transition waveform — GATE_H → GATE_L on STOP edge (reg_en pulse)</em>
 </div>
 
