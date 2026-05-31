@@ -162,12 +162,11 @@ Each cycle asserts START, shifts 16 bits of data synchronous to the DUT clock, t
 
 ---
 
-## Tools & References
+## Place and Route
 
-| Resource | Description |
-|----------|-------------|
-| `Artix7_FPGAs_data_sheet.pdf` | Artix-7 FPGA datasheet |
-| `basys3_board_reference.pdf` | Basys3 board reference manual |
-| `diagram/schematic.pdf` | HP 5004A circuit schematic reference |
-| `spec_signature_analyzer I, II, & III` PDFs | Lab specifications (I, II, III) |
-| Xilinx Vivado | Synthesis, implementation, bitstream generation |
+<div align="center">
+<img src="docs/images/hp5004a_full.jpg" alt="Prescaled Display Waveform" width="600"/>
+<br/><em>Figure 5: Prescaled display digit scan waveform</em>
+</div>
+
+
